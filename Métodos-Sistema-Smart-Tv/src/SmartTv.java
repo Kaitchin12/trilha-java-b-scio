@@ -10,7 +10,7 @@ public class SmartTv {
         canal = novoCanal;
     }
 
-    //canais 
+    //canais class
 public void aumentarCanal(){
     canal++;
 }
@@ -18,7 +18,7 @@ public void aumentarCanal(){
 public void diminuirCanal(){
     canal--;
 }
- //volumes
+ //volumes class
     public void aumentarVolume(){
         volume++;
     }
@@ -27,7 +27,7 @@ public void diminuirCanal(){
         volume--;
     }
 
-    //ligar e desligar
+    //ligar e desligar class
     public void ligar() {
         ligada= true;
 
